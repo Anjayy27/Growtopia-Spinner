@@ -1,0 +1,11 @@
+C:\Users\sam\source\repos\Casino hack\Casino hack\bin\Debug\Casino hack.exe.config
+C:\Users\sam\source\repos\Casino hack\Casino hack\bin\Debug\Casino hack.exe
+C:\Users\sam\source\repos\Casino hack\Casino hack\bin\Debug\Casino hack.pdb
+C:\Users\sam\source\repos\Casino hack\Casino hack\obj\Debug\Casino hack.csproj.AssemblyReference.cache
+C:\Users\sam\source\repos\Casino hack\Casino hack\obj\Debug\Casino hack.csproj.SuggestedBindingRedirects.cache
+C:\Users\sam\source\repos\Casino hack\Casino hack\obj\Debug\Casino_hack.Form1.resources
+C:\Users\sam\source\repos\Casino hack\Casino hack\obj\Debug\Casino_hack.Properties.Resources.resources
+C:\Users\sam\source\repos\Casino hack\Casino hack\obj\Debug\Casino hack.csproj.GenerateResource.cache
+C:\Users\sam\source\repos\Casino hack\Casino hack\obj\Debug\Casino hack.csproj.CoreCompileInputs.cache
+C:\Users\sam\source\repos\Casino hack\Casino hack\obj\Debug\Casino hack.exe
+C:\Users\sam\source\repos\Casino hack\Casino hack\obj\Debug\Casino hack.pdb
